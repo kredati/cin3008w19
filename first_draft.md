@@ -60,5 +60,9 @@
 * Workshop: programming in Logo
 
 ### Week 11, March 25: Kris Cohen Visit
+* Kris Cohen, precirculated work in progress
+* Jonathan Beller, Introduction to _The Message is Murder_
+* Aria Dean, "Notes on Blaccelerationism"
+* Frank Wilderson, _Black, White, and Red_, selections
 
 ### Week 12, April 1: Research and Writing Workshop II
