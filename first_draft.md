@@ -21,21 +21,25 @@
 * Julie Turnock Skype visit
 
 ### Week 4, January 28: Blockbuster Economics & Aesthetics II
-* David Harvey, _A Brief History of Neoliberalism_, selections
+* David Harvey, Introduction and "Freedom's Just Another Word...," from _A Brief History of Neoliberalism_
 * Scott Ferguson, Introduction, "Transcending the Aesthetic," and "Allegories of the Aesthetic," from _Declarations of Dependence_
 * Scott Ferguson Skype visit
 
 ## Unit 2: From Technology to Medium: Video
 ### Week 5, February 4: From Thought to Medium
+* Lucy Lippard, "The Dematerialization of Art"
+* Paul Ryan, "A Genealogy of Video"
 * Rosalind Krauss, _A Voyage on the North Sea_
 * Yvonne Spielman, "Video: From Technology to Medium"
-* Kate Mondloch, "The Architecture of Screen Space," from _Screens_
 * Screening: Peter Campus, _Three Transitions_
 
 ### Week 6, February 11: Video and (En)Duration
+* Vito Acconci, "Body as Place-Moving in on Myself, Performing Myself"
+* Bruce Nauman, _Please Pay Attention Please_, selections
 * Christine Ross, "The Temporalities of Video: Extendedness Revisited"
-* Screening: Bruce Nauman, _Lip Synch_ and _Bouncing Balls_; Vito Aconci, _Sounding Board_
-
+* Kate Mondloch, _Screens_, selections
+* Screening: Bruce Nauman, _Lip Synch_ and _Bouncing Balls_; Vito Acconci, _Sounding Board_; Marina Abramovic & Ulay, "The Other (Rest Position)"
+di
 ### Week 7, February 25: Research and Writing Workshop I
 
 ## Unit 3: The Invention of Computational Personhood
@@ -43,6 +47,7 @@
 * Selections from _The New Media Reader_ (Bush, Sutherland, Engelbart, etc.)
 * Stewart Brand, _The Whole Earth Catalog_
 * Fred Turner, _From Counterculture to Cyberculture_, selections
+* Joseph Weisenbaum, _Computer Power and Human Reason_, selections
 * Tung-Hui Hu, Introduction and "Time Sharing and Virtualization," from _A Prehistory of the Cloud_
 * Screening: Engelbart and Sutherland demos; etc.
 
