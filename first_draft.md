@@ -7,6 +7,7 @@
 * Screening: Jordan Belson, _Samhadi_; Charles and Ray Eames, _Powers of 10_ (draft version)
 
 ### Week 2, January 14: The Cinema as (Post)Cybernetic System
+* Annette Michelson, "Bodies in Space: Film as Carnal Knowledge"
 * Jean-Louis Baudry, "Ideological Effects of the Basic Cinematographic Apparatus"
 * Christian Metz, "Identification/Mirror," "The Passion for Perceiving," and "Fetishism, Disavowal," from _The Imaginary Signifier_
 * Friedrich Kittler, "The World of the Symbolic, A World of the Machine"
