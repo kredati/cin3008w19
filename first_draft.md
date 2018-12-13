@@ -1,3 +1,17 @@
+# Screens in the 70s
+#### CIN3008H1-S19
+
+## Logistical information
+* Instructor: **Scott Richmond**, Assistant Professor of Cinema & Digital Media
+* Email: s.richmond@utoronto.ca
+* Course meetings: Mondays, 3–7pm. _NB: Some days (i.e., when there are no screenings or other activities planed, we will meet until 6pm. Other days (i.e., when there are feature screenings) we will meet right until 7pm. Some days we will go somewhere in between. We will negotiate this together._
+* Scott's office: Innis College Room 230E.
+* Scott's office hours: Tuesdays, noon–2pm; Wednesdays, 3:30–5:30pm. Please sign up for office hours slots at https://calendly.com/s-richmond/officehours. Note that appointments must be scheduled at least 24 hours in advance. If you cannot make these times, if the times are full, or you have an urgent (time-sensitive) matter to discuss, email Scott and he'll work out an appointment for you.
+
+## Course information
+### Description
+
+
 ## Unit 1: Cinema and/as Cybernetics
 ### Week 1, January 7: Introductions: Post-cybernetics
 * N. Kahterine Hayles, "Cybernetics," from Hansen & Mitchell, eds., _Critical Terms for Media Studies_
