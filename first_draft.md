@@ -31,7 +31,7 @@
 ### Week 3, January 21: Blockbuster Economics & Aesthetics I
 * David Cook, "Manufacturing the Blockbuster," from _Lost Illusions_
 * Julie Turnock, Introduction, "The Expanded Blockbuster," and "'More Philosophical Grey Matter'," from _Plastic Reality_
-* Jonathan Beller, _The Cinematic Mode of Production_, selections
+* Jonathan Beller, Introduction and "Circulation," from _The Cinematic Mode of Production_
 * Screening: _Close Encounters of the Third Kind_
 * Julie Turnock Skype visit
 
