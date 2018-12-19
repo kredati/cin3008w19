@@ -61,7 +61,7 @@ Students will write a substantial research (seminar) paper. A major focus of thi
 * Christine Ross, "The Temporalities of Video: Extendedness Revisited"
 * Kate Mondloch, _Screens_, selections
 * Screening: Bruce Nauman, _Lip Synch_ and _Bouncing Balls_; Vito Acconci, _Sounding Board_; Marina Abramovic & Ulay, "The Other (Rest Position)"
-di
+
 ### Week 7, February 25: Research and Writing Workshop I
 
 ## Unit 3: The Invention of Computational Personhood
