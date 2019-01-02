@@ -18,54 +18,63 @@ To be sure, the 1970s encompasses _vastly_ more phenomena than this course is ab
 
 Students will write a substantial research (seminar) paper. A major focus of this course is methodological, and it will include multiple research and writing workshops.
 
+### Week 1, January 7: Introductions
+* Syllabus overview, process discussion, Scott rambles about the course, etc.
+* Screening (for following week): Jordan Belson, _Samhadi_; Charles and Ray Eames, _Powers of 10_ (draft version)
 
 ## Unit 1: Cinema and/as Cybernetics
-### Week 1, January 7: Introductions: Post-cybernetics
+### Week 2, January 14: Post-cybernetics
+#### Guides: Scott models.
 * N. Kahterine Hayles, "Cybernetics," from Hansen & Mitchell, eds., _Critical Terms for Media Studies_
 * Gene Youngblood, _Expanded Cinema_, selections
 * Justus Nieland, "Midcentury Futurisms"
 * Pamela Lee, "Presentness is Grace," from _Chronophobia_
-* Screening: Jordan Belson, _Samhadi_; Charles and Ray Eames, _Powers of 10_ (draft version)
+* Screening (for following week): _2001: A Space Odyssey_
 
-### Week 2, January 14: The Cinema as (Post)Cybernetic System
+### Week 3, January 21: The Cinema as (Post)Cybernetic System
+#### Guides TBD.
 * Annette Michelson, "Bodies in Space: Film as Carnal Knowledge"
 * Jean-Louis Baudry, "Ideological Effects of the Basic Cinematographic Apparatus"
 * Christian Metz, "Identification/Mirror," "The Passion for Perceiving," and "Fetishism, Disavowal," from _The Imaginary Signifier_
 * Friedrich Kittler, "The World of the Symbolic, A World of the Machine"
 * Scott Richmond, Introduction, "Beyond the Infinite, At Home in Finitude," and "The Body, Unbounded," from _Cinema's Bodily Illusions_
-* Screening: _2001: A Space Odyssey_
+* Screening (for following week): _Close Encounters of the Third Kind_
 
-### Week 3, January 21: Blockbuster Economics & Aesthetics I
+### Week 4, January 28: Blockbuster Economics & Aesthetics I
+#### Guides TBD.
 * David Cook, "Manufacturing the Blockbuster," from _Lost Illusions_
 * Julie Turnock, Introduction, "The Expanded Blockbuster," and "'More Philosophical Grey Matter'," from _Plastic Reality_
 * Jonathan Beller, Introduction and "Circulation," from _The Cinematic Mode of Production_
-* Screening: _Close Encounters of the Third Kind_
 * Julie Turnock Skype visit
+* No screening.
 
-### Week 4, January 28: Blockbuster Economics & Aesthetics II
+### Week 5, February 4: Blockbuster Economics & Aesthetics II
 * David Harvey, Introduction and "Freedom's Just Another Word...," from _A Brief History of Neoliberalism_
 * Scott Ferguson, Introduction, "Transcending the Aesthetic," and "Allegories of the Aesthetic," from _Declarations of Dependence_
 * Scott Ferguson Skype visit
+* Screening (for following week): Peter Campus, _Three Transitions_, and other video works.
 
 ## Unit 2: From Technology to Medium: Video
-### Week 5, February 4: From Thought to Medium
+### Week 6, February 11: From Thought to Medium
 * Lucy Lippard, "The Dematerialization of Art"
 * Paul Ryan, "A Genealogy of Video"
 * Rosalind Krauss, _A Voyage on the North Sea_
 * Yvonne Spielman, "Video: From Technology to Medium"
-* Screening: Peter Campus, _Three Transitions_
+* Screening (for following week): Bruce Nauman, _Lip Synch_ and _Bouncing Balls_ (excerpts); Vito Acconci, _Sounding Board_; Marina Abramovic & Ulay, "The Other (Rest Position)"
 
-### Week 6, February 11: Video and (En)Duration
+#### February 18: No class; reading week.
+
+### Week 7, February 25: Video and (En)Duration
 * Vito Acconci, "Body as Place-Moving in on Myself, Performing Myself"
 * Bruce Nauman, _Please Pay Attention Please_, selections
 * Christine Ross, "The Temporalities of Video: Extendedness Revisited"
 * Kate Mondloch, _Screens_, selections
-* Screening: Bruce Nauman, _Lip Synch_ and _Bouncing Balls_; Vito Acconci, _Sounding Board_; Marina Abramovic & Ulay, "The Other (Rest Position)"
+* No screening. In its place: process discussion, and workshop prep.
 
-### Week 7, February 25: Research and Writing Workshop I
+### Week 8, March 4: Research and Writing Workshop I
 
 ## Unit 3: The Invention of Computational Personhood
-### Week 8, March 4: Computation and Persons
+### Week 9, March 11: Computation and Persons
 * Selections from _The New Media Reader_ (Bush, Sutherland, Engelbart, etc.)
 * Stewart Brand, _The Whole Earth Catalog_
 * Fred Turner, _From Counterculture to Cyberculture_, selections
@@ -73,18 +82,12 @@ Students will write a substantial research (seminar) paper. A major focus of thi
 * Tung-Hui Hu, Introduction and "Time Sharing and Virtualization," from _A Prehistory of the Cloud_
 * Screening: Engelbart and Sutherland demos; etc.
 
-### Week 9, March 11: The Invention of Screen Space
+### Week 10, March 18: The Invention of Screen Space
 * Jacob Gaboury, Introduction to _Image Objects_
 * Gaboury, "The Random-Access Image"
 * Jason Wilson, "Participation TV"
 * Screening: early computer animation films, e.g. Whitney, _Matrix III_
 * Jacob Gaboury Skype visit
-
-### Week 10, March 18: Computational Pedagogies
-* Seymour Papert, _Mindstorms_, selections
-* Papert, _The Children's Machine_, selections
-* Joy Rankin, Introduction, chs. 1–3 from _A People's History of Computation in the United States_
-* Workshop: programming in Logo
 
 ### Week 11, March 25: Kris Cohen Visit
 * Kris Cohen, precirculated work in progress
@@ -92,4 +95,11 @@ Students will write a substantial research (seminar) paper. A major focus of thi
 * Aria Dean, "Notes on Blaccelerationism"
 * Frank Wilderson, _Black, White, and Red_, selections
 
-### Week 12, April 1: Research and Writing Workshop II
+### Week 12, April 1: Computational Pedagogies
+* Seymour Papert, _Mindstorms_, selections
+* Papert, _The Children's Machine_, selections
+* Joy Rankin, Introduction, chs. 1–3 from _A People's History of Computation in the United States_
+* Workshop: programming in Logo
+
+### Week 13 or 14, April 8 or 15: Research and Writing Workshop II (voluntary)
+* Workshop in-process seminar papers. 
