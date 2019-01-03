@@ -36,10 +36,10 @@ Two thirds of your final mark will be determined by your final paper or project.
 ## Course values and processes
 The most important activity we will pursue together in this course is the posing of questions. Asking good questions means, of necessity, leading with what you _don't_ know. Which makes it, in the context of institutional and pedagogical cultures of competence, a very vulnerable thing. The various rituals, covenants, and processes of this course are designed to cultivate an atmosphere where students can lean into their vulnerability.
 
-In other words, from the get go, we will be getting vulnerable together. For further reading on this see our Course Covenant and the Structures of Class. (Stay tuned for these.)
+In other words, from the get go, we will be getting vulnerable together—but in structured ways that will (Scott hopes) alleviate some of the anxiety that attends vulnerability. For further reading on this see our Course Covenant and the Structures of Class. (Stay tuned for these.)
 
 ### Guides
-Most every class will have one or two guides (the exceptions are noted in the [Course Schedule](#), below). They will open the class with two (possibly three) genuine questions, to which the rest of the class will apply themselves. The procedures for this are spelled out in the Structures of Class document. See also the Questions and Discussions documents. (Stay tuned for these.)
+Most every class will have one or two guides (the exceptions are noted in the [Course Schedule](#course-schedule), below). They will open the class with two (possibly three) genuine questions, to which the rest of the class will apply themselves. They will offer an account of the motivations for these questions. The procedures for this are spelled out in the Structures of Class document. See also the Questions and Discussions documents. (Stay tuned for these.)
 
 ## Course technology
 * **Course website:** https://github.com/kredati/cin3008w19/. This website (👋) contains all open (not-access controlled) material: Scott's notes, this syllabus, course documents regarding process, questions, and discussion, etc.
@@ -110,7 +110,7 @@ Scott will maintain a (fairly deep) bibliography of materials (books, articles, 
 * Bruce Nauman, _Please Pay Attention Please_, selections
 * Christine Ross, "The Temporalities of Video: Extendedness Revisited"
 * Kate Mondloch, _Screens_, selections
-* No screening. In its place: process discussion, and workshop prep.
+* No screening. In its place: process discussion, and workshop prep
 
 ### Week 8, March 4: Research and Writing Workshop I
 #### No guides
