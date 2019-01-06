@@ -10,4 +10,5 @@ This is a repository for course documents, including:
 * [Class patterns](class-patterns.md), which details how we will spend our time during our seminar meetings.
 * [On questions and discussion](questions-and-discussion.md), which offers Scott's guidance on how to ask good questions and how to have a good discussion.
 
-You probably also want a link to our Slack team. Stay tuned.
+For all ongoing and student-produced content, along with directions to the reading, visit our **[Slack team](https://70s-screens.slack.com)**
+
