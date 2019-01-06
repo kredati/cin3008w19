@@ -64,7 +64,7 @@ Scott will maintain a (fairly deep) bibliography of materials (books, articles, 
 ### Week 2, January 14: (Post)Cybernetics
 #### Guide: Scott
 * N. Kahterine Hayles, "Cybernetics," from Hansen & Mitchell, eds., _Critical Terms for Media Studies_
-* Gene Youngblood, _Expanded Cinema_, selections
+* Gene Youngblood, Part One, "The Audience and the Myth of Entertainment" (45–73), and "The Cosmic Cinema of Jordan Belson" (157–77), from _Expanded Cinema_
 * Justus Nieland, "Midcentury Futurisms"
 * Pamela Lee, "Presentness is Grace," from _Chronophobia_
 * Screening (for following week): _2001: A Space Odyssey_ (Stanley Kubrick, USA & UK, 1968, 149 min.)
@@ -72,8 +72,9 @@ Scott will maintain a (fairly deep) bibliography of materials (books, articles, 
 ### Week 3, January 21: The Cinema as (Post)Cybernetic System
 #### Guides TBD
 * Annette Michelson, "Bodies in Space: Film as Carnal Knowledge"
+* Gene Youngblood, "Toward Cosmic Consciousness," "_2001_: The New Nostalgia," and "The Stargate Corridor" (135–56), from _Expanded Cinema_
 * Jean-Louis Baudry, "Ideological Effects of the Basic Cinematographic Apparatus"
-* Christian Metz, "Identification/Mirror," "The Passion for Perceiving," and "Fetishism, Disavowal," from _The Imaginary Signifier_
+* Christian Metz, "Identification/Mirror" and "The Passion for Perceiving," from _The Imaginary Signifier_
 * Friedrich Kittler, "The World of the Symbolic, A World of the Machine"
 * Scott Richmond, Introduction, "Beyond the Infinite, At Home in Finitude," and "The Body, Unbounded," from _Cinema's Bodily Illusions_
 * Screening (for following week): _Close Encounters of the Third Kind_ (Steven Spielberg, USA, 1977, 138 min.)
@@ -97,6 +98,7 @@ Scott will maintain a (fairly deep) bibliography of materials (books, articles, 
 ### Week 6, February 11: From Thought to Medium
 #### Guides TBD
 * Lucy Lippard, "The Dematerialization of Art"
+* Gene Youngblood, Part Five, "Television as Creative Medium," from _Expanded Cinema_
 * Paul Ryan, "A Genealogy of Video"
 * Rosalind Krauss, _A Voyage on the North Sea_
 * Yvonne Spielman, "Video: From Technology to Medium"
@@ -130,6 +132,7 @@ Scott will maintain a (fairly deep) bibliography of materials (books, articles, 
 
 ### Week 10, March 18: The Invention of Screen Space
 #### Guides TBD
+* Gene Youngblood, Part Four, "Cybernetic Cinema and Computer Films," from _Expanded Cinema_
 * Jacob Gaboury, Introduction to _Image Objects_
 * Gaboury, "The Random-Access Image"
 * Jason Wilson, "Participation TV"
