@@ -7,7 +7,7 @@
     - [Description](#description)
     - [Course goals](#course-goals)
     - [Coursework](#coursework)
-    - [Marks and marking](#marks-and-marking)
+    - [Marks and marking](#marks--marking)
 * [Course values and processes](#course-values-and-processes)
     - [Guides](#guides)
 * [Course technology](#course-technology)
