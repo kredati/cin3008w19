@@ -23,6 +23,7 @@
 * **Instructor:** **Scott Richmond**, Assistant Professor of Cinema & Digital Media
 * **Email:** s.richmond@utoronto.ca
 * **Course meetings:** Mondays, 3–7pm. _NB: Some days (i.e., when there are no screenings or other activities planed, we will meet until 6pm. Other days (i.e., when there are feature screenings) we will meet right until 7pm. Some days we will go somewhere in between. We will negotiate this together. We will always have a break._
+* **Course location:** Innis College Room 223E.
 * **Scott's office:** Innis College Room 230E.
 * **Scott's office hours:** Tuesdays, noon–2pm; Wednesdays, 3:30–5:30pm. Please sign up for office hours slots at https://calendly.com/s-richmond/officehours. Note that appointments must be scheduled at least 24 hours in advance. Note also that as graduate students you are entitled to make two back-to-back appointments, for a 40-minute meeting. If you cannot make these times, if the times are full, or you have an urgent (time-sensitive) matter to discuss, email Scott and he'll work out an appointment for you.
 
