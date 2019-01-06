@@ -8,7 +8,7 @@ This is a repository for course documents, including:
 * [The syllabus](syllabus.md), which contains most of what you'd ordinarily expect.
 * [The Covenant for the seminar](covenant.md), which details (in exorbitantly explicit detail) what seminar members agree to.
 * [Class patterns](class-patterns.md), which details how we will spend our time during our seminar meetings.
-* [On questions and discussion](questions-and-discussion.md), which offers Scott's guidance on how to ask good questions and how to have a good discussion.
+* [On questions and discussions](questions-and-discussions.md), which offers Scott's guidance on how to ask good questions and how to have a good discussion.
 
 For all ongoing and student-produced content, along with directions to the reading, visit our **[Slack team](https://70s-screens.slack.com)**
 
