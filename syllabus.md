@@ -62,7 +62,7 @@ Most every class will have one or two guides (the exceptions are noted in the [C
 
 ## Course technology
 * **Course website:** https://github.com/kredati/cin3008w19/. This website (👋) contains all open (not-access controlled) material: Scott's notes, this syllabus, course documents regarding process, questions, and discussion, etc.
-* **Slack team:** In place of Canvas, we will use Slack as our main communication and collaboration tool. Any access-controlled material will live on Slack (readings, anything student-produced). We will sign up for accounts during our first meeting (or in advance of it). (Stay tuned.)
+* **Slack team:** https://70s-screens.slack.com/. In place of Canvas, we will use Slack as our main communication and collaboration tool. Any access-controlled material will live on Slack (readings, anything student-produced). We will sign up for accounts during our first meeting (or in advance of it).
 * **Canvas:** We will mostly not use Canvas.
 
 ## Course materials
