@@ -1,6 +1,24 @@
 # Screens in the 70s
 #### CIN3008H1-S19
 
+## In this document
+* [Logistical information](#logistical-information)
+* [Course information](#course-information)
+    - [Description](#description)
+    - [Course goals](#course-goals)
+    - [Coursework](#coursework)
+    - [Marks and marking](#marks-and-marking)
+* [Course values and processes](#course-values-and-processes)
+    - [Guides](#guides)
+* [Course technology](#course-technology)
+* [Course materials](#course-materials)
+* [Course schedule](#course-schedule)
+* [Course policies and procedures](#course-policies-and-procedures)
+    - [Email & other communication](#email--other-communication)
+    - [Submission and "publication" of work](#submission-and-publication-of-work)
+    - [On deadlines & late work](#on-deadlines--late-work)
+    - [Academic Dishonesty](#academic-dishonesty)
+
 ## Logistical information
 * **Instructor:** **Scott Richmond**, Assistant Professor of Cinema & Digital Media
 * **Email:** s.richmond@utoronto.ca
