@@ -1,3 +1,5 @@
+![The 1970s!](https://cdn4.pitchfork.com/longform/636/1970s_Albums.jpg)
+
 # Screens in the 70s
 Welcome to Screens in the 70s, Scott Richmond's Winter 2019 graduate seminar at the University of Toronto.
 
