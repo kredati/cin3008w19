@@ -1,6 +1,12 @@
 # Course covenant
 
-Graduate seminars should be intellectual and communal spaces of supported and rigourous risk-taking. This covenant explicitly specifies practices that are all animated by the fundamental assumption that we are, at base, simply a group of people in a room trying to understand things better. By following this seminar, we agree to the following principles and practices.
+Graduate seminars should be intellectual and communal spaces of supported and rigorous risk-taking. This covenant explicitly specifies practices that are all animated by the fundamental assumption that we are, at base, simply a group of people in a room trying to understand things better. By following this seminar, we agree to the following principles and practices.
+
+### Self-determination
+This covenant works only when everybody is dedicated to it. It is not a contract (whose violations are adjudicated and enforced by an external force), but rather an agreement we make with each other. We agree to:
+* Address any failures to honour the covenant as directly and generously as possible. The first best option is to bring it to that person's attention, in person, quickly and generously. If that is not feasible (logistically, or emotionally), the next best option is to address it with Scott as soon as possible. (And this latter point _includes_ any instances of Scott's covenantal slips.)
+* Address any of Scott's failures to honour the covenant with him.
+* Revisit the covenant from time to time over the course of the term, making revisions as the group deems salutary or necessary.
 
 ### Radical generosity
 The principle of radical generosity follows from the idea that to muster the genuine curiosity that drives good research, and the vulnerability that comes with it, we must treat one another with extraordinary generosity. We agree to:
@@ -18,7 +24,7 @@ The principle of genuine questioning affirms that, for research to matter—to i
 * Ask questions that are genuine, especially when they seem stupid, or are inarticulate.
 * Avoid speaking in ways that are devised to demonstrate expertise or virtuosity.
 
-### Rigourous inquiry
+### Rigorous inquiry
 The principle of rigorous inquiry holds that genuine curiosity is not in itself sufficient to good research; such curiosity must become disciplined. It is through practices of rigorous—but always generous—inquiry that we learn such discipline. We agree to:
 * Ground our discussion in the practice of close reading, staying close to the texts (primary & secondary) at hand.
 * Keep our contributions to the seminar as focused as possible on the problems and questions that arise from such close reading.
