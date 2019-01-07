@@ -3,46 +3,46 @@
 Graduate seminars are, or should be, intellectual and communal spaces of supported and rigourous risk-taking. In short, these are explicit practices that are all animated by the funamental assumption that we are a group of people in a room trying to understand things better. By following this seminar, we agree to the following principles and practices.
 
 ### Radical generosity
-The principle of radical generosity follows from the idea that to muster the genuine curiosity that drives good research, and the vulnerability that comes with it, we must treat one another with extraordinary generosity.
-* We agree to make all spoken contributions to the seminar with sincerity and vulnerability: our speaking reflects our honest questions and curiosity.
-* We agree to make all spoken contributions to the seminar with generosity: our speaking is intended to promote the intellectual development of others in the seminar.
-* We agree to listen to all spoken contributions to the seminar with sincerity and vulnerability: our listening is organized by a genuine effort to understand what others are saying, especially when it is not clear to us.
-* We agree to listen to all spoken contributions to the seminar with generosity: our listening is committed to the value of what others are saying, especially when it is not clear to us.
-* We agree to strive to ensure our contributions to seminar are motivated, offering reasons for what we say when it seems approrpiate, or when asked to do so.
-* We agree to disagree in ways that are constructive: our disagreements should be as motivated as the rest of our speaking.
-* We agree to treat differences in knowledge and understanding with respect and gentleness.
+The principle of radical generosity follows from the idea that to muster the genuine curiosity that drives good research, and the vulnerability that comes with it, we must treat one another with extraordinary generosity. We agree to:
+* Make all spoken contributions to the seminar with sincerity and vulnerability: our speaking reflects our honest questions and curiosity.
+* Make all spoken contributions to the seminar with generosity: our speaking is intended to promote the intellectual development of others in the seminar.
+* Listen to all spoken contributions to the seminar with sincerity and vulnerability: our listening is organized by a genuine effort to understand what others are saying, especially when it is not clear to us.
+* Listen to all spoken contributions to the seminar with generosity: our listening is committed to the value of what others are saying, especially when it is not clear to us.
+* Strive to ensure our contributions to seminar are motivated, offering reasons for what we say when it seems approrpiate, or when asked to do so.
+* Disagree in ways that are constructive: our disagreements should be as motivated as the rest of our speaking.
+* Treat differences in knowledge and understanding with respect and gentleness.
 
 ### Genuine questioning
-The principle of genuine questioning affirms that, for research to matter—to its authors, to its readers—it must be motivated by questions that are sincerely posed.
-* We agree to continually motivate seminar discussion through the asking of questions and substantial inquiry.
-* We agree to ask questions that are genuine, especially when they seem stupid, or are inarticulate.
-* We agree to avoid speaking in ways that are devised to demonstrate expertise or virtuosity.
+The principle of genuine questioning affirms that, for research to matter—to its authors, to its readers—it must be motivated by questions that are sincerely posed. We agree to:
+* Continually motivate seminar discussion through the asking of questions and substantial inquiry.
+* Ask questions that are genuine, especially when they seem stupid, or are inarticulate.
+* Avoid speaking in ways that are devised to demonstrate expertise or virtuosity.
 
 ### Rigourous inquiry
-The principle of rigorous inquiry holds that genuine curiosity is not in itself sufficient to good research; such curiosity must become disciplined. It is through practices of rigorous—but always generous—inquiry that we learn such discipline.
-* We agree to ground our discussion in the practice of close reading, staying close to the texts (primary & secondary) at hand.
-* We agree to keep our contributions to the seminar as focused as possible on the problems and questions that arise from such close reading.
-* We agree to share disagreements and difficulties when they arise.
-* We agree to ground disagreements in evidence from the text.
+The principle of rigorous inquiry holds that genuine curiosity is not in itself sufficient to good research; such curiosity must become disciplined. It is through practices of rigorous—but always generous—inquiry that we learn such discipline. We agree to:
+* Ground our discussion in the practice of close reading, staying close to the texts (primary & secondary) at hand.
+* Keep our contributions to the seminar as focused as possible on the problems and questions that arise from such close reading.
+* Share disagreements and difficulties when they arise.
+* Ground disagreements in evidence from the text.
 
 ### Preparedness
-The principle of preparedness is an iteration of generosity. It affirms the generosity of arriving into a scene of community having done (at least some of) the necessary work.
-* We agree to do our level best to complete the reading before seminar begins, and to always come able to manifest meaningful engagement.
-* We agree to read actively, and in a spirit of inquiry.
-* We agree to work to sharpen our questions before seminar.
-* We agree to read generously, and then critically: we agree to work first to understand a text on its own terms, and only then to understand a text's limitations.
+The principle of preparedness is an iteration of generosity. It affirms the generosity of arriving into a scene of community having done (at least some of) the necessary work. We agree to:
+* Do our level best to complete the reading before seminar begins, and to always come able to manifest meaningful engagement.
+* Read actively, and in a spirit of inquiry.
+* Work to sharpen our questions before seminar.
+* Read generously, and then critically: we agree to work first to understand a text on its own terms, and only then to understand a text's limitations.
 
 ### Openness
-The principle of openness is a different, related iteration of generosity. It affirms that a productive seminar room must also make space for suprise—and that means also making space for undisciplined, naïve, vague, or silly contributions.
-* We agree to treat others' experiences and differences with respect, generosity, and modesty, affirming that good intentions do not suffice to bridge all gaps.
-* We agree to try out others' questions and ideas.
+The principle of openness is a different, related iteration of generosity. It affirms that a productive seminar room must also make space for suprise—and that means also making space for undisciplined, naïve, vague, or silly contributions. We agree to:
+* Treat others' experiences and differences with respect, generosity, and modesty, affirming that good intentions do not suffice to bridge all gaps.
+* Try out others' questions and ideas sincerely and in good faith.
 
 ### Good citizenship
-The principle of good citizenship means behaving in ways that allow others to learn well.
-* We agree to be on time to seminar, which begins at 3:10pm.
-* We agree to stay the whole duration of the seminar—or, if we must leave, we agree to do so with as little disruption as possible.
-* We agree to leave the seminar room for bio-breaks in ways that are unobtrusive.
-* We agree to moderate our participation in the seminar, ensuring that a small cadre of students does not dominate discussion. This responsibility cuts both ways. For those of us who are dilatory, we agree not to take up too much space in the seminar. For those of us who are laconic, we agree not to leave others to do the work of sustaining discussion.
+The principle of good citizenship means behaving in ways that allow others to learn well. We agree to:
+* Be on time to seminar, which begins at 3:10pm.
+* Stay the whole duration of the seminar—or, if we must leave, we agree to do so with as little disruption as possible.
+* Leave the seminar room for bio-breaks in ways that are unobtrusive.
+* Moderate our participation in the seminar, ensuring that a small cadre of students does not dominate discussion. We note that this responsibility cuts both ways. For those of us who are dilatory, we agree not to take up too much space in the seminar. For those of us who are laconic, we agree not to leave others to do the work of sustaining discussion.
 
 ### Responsible teaching
 The classroom is not a symmetrical instittion. Scott agrees to embody authority in responsible and responsive ways. In particular, Scott agrees to:
