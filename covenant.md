@@ -1,15 +1,15 @@
 # Course covenant
 
-Graduate seminars are, or should be, intellectual and communal spaces of supported and rigourous risk-taking. In short, these are explicit practices that are all animated by the fundamental assumption that we are a group of people in a room trying to understand things better. By following this seminar, we agree to the following principles and practices.
+Graduate seminars should be intellectual and communal spaces of supported and rigourous risk-taking. This covenant explicitly specifies practices that are all animated by the fundamental assumption that we are, at base, simply a group of people in a room trying to understand things better. By following this seminar, we agree to the following principles and practices.
 
 ### Radical generosity
 The principle of radical generosity follows from the idea that to muster the genuine curiosity that drives good research, and the vulnerability that comes with it, we must treat one another with extraordinary generosity. We agree to:
-* Make all spoken contributions to the seminar with sincerity and vulnerability: our speaking reflects our honest questions and curiosity.
-* Make all spoken contributions to the seminar with generosity: our speaking is intended to promote the intellectual development of others in the seminar.
-* Listen to all spoken contributions to the seminar with sincerity and vulnerability: our listening is organized by a genuine effort to understand what others are saying, especially when it is not clear to us.
-* Listen to all spoken contributions to the seminar with generosity: our listening is committed to the value of what others are saying, especially when it is not clear to us.
-* Strive to ensure our contributions to seminar are motivated, offering reasons for what we say when it seems approrpiate, or when asked to do so.
-* Disagree in ways that are constructive: our disagreements should be as motivated as the rest of our speaking.
+* Speak in seminar with sincerity and vulnerability, reflecting our honest questions and curiosity.
+* Speak in seminar with generosity toward others, promoting the intellectual development of others in the seminar.
+* Listen in seminar with sincerity and vulnerability, working to understand what others are saying, especially when it is not clear to us.
+* Listen in seminar with generosity, committed to the value of what others are saying, especially when it is not clear to us.
+* Strive to ensure our contributions to seminar are motivated, offering reasons for what we say when it seems appropriate, or when asked to do so.
+* Disagree in ways that are constructive, and as motivated as the rest of our speaking.
 * Treat differences in knowledge and understanding with respect and gentleness.
 
 ### Genuine questioning
