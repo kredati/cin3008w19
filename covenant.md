@@ -1,6 +1,6 @@
 # Course covenant
 
-Graduate seminars are, or should be, intellectual and communal spaces of supported and rigourous risk-taking. In short, these are explicit practices that are all animated by the funamental assumption that we are a group of people in a room trying to understand things better. By following this seminar, we agree to the following principles and practices.
+Graduate seminars are, or should be, intellectual and communal spaces of supported and rigourous risk-taking. In short, these are explicit practices that are all animated by the fundamental assumption that we are a group of people in a room trying to understand things better. By following this seminar, we agree to the following principles and practices.
 
 ### Radical generosity
 The principle of radical generosity follows from the idea that to muster the genuine curiosity that drives good research, and the vulnerability that comes with it, we must treat one another with extraordinary generosity. We agree to:
@@ -33,7 +33,7 @@ The principle of preparedness is an iteration of generosity. It affirms the gene
 * Read generously, and then critically: we agree to work first to understand a text on its own terms, and only then to understand a text's limitations.
 
 ### Openness
-The principle of openness is a different, related iteration of generosity. It affirms that a productive seminar room must also make space for suprise—and that means also making space for undisciplined, naïve, vague, or silly contributions. We agree to:
+The principle of openness is a different, related iteration of generosity. It affirms that a productive seminar room must also make space for surprise—and that means also making space for undisciplined, naïve, vague, or silly contributions. We agree to:
 * Treat others' experiences and differences with respect, generosity, and modesty, affirming that good intentions do not suffice to bridge all gaps.
 * Try out others' questions and ideas sincerely and in good faith.
 
@@ -45,11 +45,11 @@ The principle of good citizenship means behaving in ways that allow others to le
 * Moderate our participation in the seminar, ensuring that a small cadre of students does not dominate discussion. We note that this responsibility cuts both ways. For those of us who are dilatory, we agree not to take up too much space in the seminar. For those of us who are laconic, we agree not to leave others to do the work of sustaining discussion.
 
 ### Responsible teaching
-The classroom is not a symmetrical instittion. Scott agrees to embody authority in responsible and responsive ways. In particular, Scott agrees to:
+The classroom is not a symmetrical institution. Scott agrees to embody authority in responsible and responsive ways. In particular, Scott agrees to:
 * Make seminar time regularly available to discussions of pedagogical practices.
-* Listen to concerns about, and difficulties with, pedagogical pratices from students openly, without judgment, and without consequences.
+* Listen to concerns about, and difficulties with, pedagogical practices from students openly, without judgment, and without consequences.
 * Make appropriate changes to pedagogical practices, including this covenant, in response to such concerns and tuned to the needs of students.
-* Make himselve available to meet with students to discuss course material and procedures outside of class.
+* Make himself available to meet with students to discuss course material and procedures outside of class.
 * Communicate course requirements plainly.
 * Offer reading priorities for weeks when readings are very heavy (this may be most weeks).
 
