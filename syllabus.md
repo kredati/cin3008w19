@@ -89,7 +89,7 @@ Scott will maintain a (fairly deep) bibliography of materials (books, articles, 
 * Screening (for following week): _2001: A Space Odyssey_ (Stanley Kubrick, USA & UK, 1968, 149 min.)
 
 ### Week 3, January 21: The Cinema as (Post)Cybernetic System
-#### Guides TBD
+#### Guide: Jonathan
 * Annette Michelson, "Bodies in Space: Film as Carnal Knowledge"
 * Gene Youngblood, "Toward Cosmic Consciousness," "_2001_: The New Nostalgia," and "The Stargate Corridor" (135–56), from _Expanded Cinema_
 * Jean-Louis Baudry, "Ideological Effects of the Basic Cinematographic Apparatus"
@@ -99,7 +99,7 @@ Scott will maintain a (fairly deep) bibliography of materials (books, articles, 
 * Screening (for following week): _Close Encounters of the Third Kind_ (Steven Spielberg, USA, 1977, 138 min.)
 
 ### Week 4, January 28: Blockbuster Economics & Aesthetics I
-#### Guides TBD
+#### Guides: Sam & Thomas
 * David Cook, "Manufacturing the Blockbuster," from _Lost Illusions_
 * Julie Turnock, Introduction, "The Expanded Blockbuster," and "'More Philosophical Grey Matter'," from _Plastic Reality_
 * Jonathan Beller, Introduction and "Circulation," from _The Cinematic Mode of Production_
@@ -107,7 +107,7 @@ Scott will maintain a (fairly deep) bibliography of materials (books, articles, 
 * No screening
 
 ### Week 5, February 4: Blockbuster Economics & Aesthetics II
-#### Guides TBD
+#### Guides: Morgan & Kanika
 * David Harvey, Introduction and "Freedom's Just Another Word...," from _A Brief History of Neoliberalism_
 * Scott Ferguson, Introduction, "Transcending the Aesthetic," and "Allegories of the Aesthetic," from _Declarations of Dependence_
 * Scott Ferguson Skype visit
@@ -115,7 +115,7 @@ Scott will maintain a (fairly deep) bibliography of materials (books, articles, 
 
 ## Unit 2: From Technology to Medium: Video
 ### Week 6, February 11: From Thought to Medium
-#### Guides TBD
+#### Guides: Kyler & Meghan
 * Lucy Lippard, "The Dematerialization of Art"
 * Gene Youngblood, Part Five, "Television as Creative Medium," from _Expanded Cinema_
 * Paul Ryan, "A Genealogy of Video"
@@ -126,7 +126,7 @@ Scott will maintain a (fairly deep) bibliography of materials (books, articles, 
 #### February 18: No class—reading week
 
 ### Week 7, February 25: Video and (En)Duration
-#### Guides TBD
+#### Guide: Michael
 * Vito Acconci, "Body as Place-Moving in on Myself, Performing Myself"
 * Bruce Nauman, _Please Pay Attention Please_, selections
 * Christine Ross, "The Temporalities of Video: Extendedness Revisited"
@@ -141,7 +141,7 @@ Scott will maintain a (fairly deep) bibliography of materials (books, articles, 
 
 ## Unit 3: The Invention of Computational Personhood
 ### Week 9, March 11: Computation and Persons
-#### Guides TBD
+#### Guide: Sarah
 * Selections from _The New Media Reader_ (Bush, Sutherland, Engelbart, etc.)
 * Stewart Brand, _The Whole Earth Catalog_
 * Fred Turner, _From Counterculture to Cyberculture_, selections
@@ -150,7 +150,7 @@ Scott will maintain a (fairly deep) bibliography of materials (books, articles, 
 * Screening (for this week): Engelbart and Sutherland demos (excerpts); etc.; total run time approx 30 mins.
 
 ### Week 10, March 18: The Invention of Screen Space
-#### Guides TBD
+#### Guide: Patrick
 * Gene Youngblood, Part Four, "Cybernetic Cinema and Computer Films," from _Expanded Cinema_
 * Jacob Gaboury, Introduction to _Image Objects_
 * Gaboury, "The Random-Access Image"
