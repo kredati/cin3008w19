@@ -127,10 +127,10 @@ Scott will maintain a (fairly deep) bibliography of materials (books, articles, 
 
 ### Week 7, February 25: Video and (En)Duration
 #### Guide: Michael
-* Vito Acconci, "Body as Place-Moving in on Myself, Performing Myself"
-* Bruce Nauman, _Please Pay Attention Please_, selections
+* Bruce Nauman, "Breaking the Silence: An Interview with Bruce Nauman"
+* Margaret Morse, "Body and Screen" and "Video Installation Art"
 * Christine Ross, "The Temporalities of Video: Extendedness Revisited"
-* Kate Mondloch, _Screens_, selections
+* Kate Mondloch, _Screens_, introduction and chapters 1-4
 * No screening. In its place: process discussion, and workshop prep
 
 ### Week 8, March 4: Research and Writing Workshop I
