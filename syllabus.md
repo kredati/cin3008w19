@@ -142,12 +142,16 @@ Scott will maintain a (fairly deep) bibliography of materials (books, articles, 
 ## Unit 3: The Invention of Computational Personhood
 ### Week 9, March 11: Computation and Persons
 #### Guide: Sarah
-* Selections from _The New Media Reader_ (Bush, Sutherland, Engelbart, etc.)
-* Stewart Brand, _The Whole Earth Catalog_
-* Fred Turner, _From Counterculture to Cyberculture_, selections
-* Joseph Weisenbaum, _Computer Power and Human Reason_, selections
-* Tung-Hui Hu, Introduction and "Time Sharing and Virtualization," from _A Prehistory of the Cloud_
-* Screening (for this week): Engelbart and Sutherland demos (excerpts); etc.; total run time approx 30 mins.
+* Fred Turner, "The Shifting Politics of the Computational Metaphor," from _From Counterculture to Cyberculture_
+* Tung-Hui Hu, "Time Sharing and Virtualization," from _A Prehistory of the Cloud_
+* Vannevar Bush, "As We May Think"
+* J.C.R. Licklider, "Man-Computer Symbiosis"
+* Douglas Engelbart, "Augmenting Human Intellect" (excerpts, as printed in _The New Media Reader_)
+* Engelbart et al., "A Research Center for Augmenting Human Intellect"
+* Theodor Nelson, "Computer Lib/Dream Machine" (excerpts, as printed in _The New Media Reader_)
+* Alan Kay and Adele Goldberg, "Personal Dynamic Media"
+* Joseph Weizembaum, Introduction and chs. 1 and 10, from _Computing Power and Human Reason_
+* Screening (for this week, & for next): Engelbart and Sutherland demos (excerpts); total run time approx 45 mins.
 
 ### Week 10, March 18: The Invention of Screen Space
 #### Guide: Patrick
@@ -155,10 +159,10 @@ Scott will maintain a (fairly deep) bibliography of materials (books, articles, 
 * Jacob Gaboury, Introduction to _Image Objects_
 * Gaboury, "The Random-Access Image"
 * Jason Wilson, "Participation TV"
-* Screening (for this week): early computer animation films, e.g. Whitney, _Matrix III_; total run time approx 1 hour
+* Screening (for this week): early computer animation films by Manfred Mohr, John Whitney, Paul Foldès; total run time approx 1 hour.
 * Jacob Gaboury Skype visit
 
-### Week 11, March 25: Kris Cohen Visit
+### Week 11, March 25: Digitality and Racialization
 #### No guides
 * Kris Cohen, precirculated work in progress
 * Jonathan Beller, Introduction to _The Message is Murder_
