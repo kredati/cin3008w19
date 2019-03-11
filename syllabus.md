@@ -156,7 +156,7 @@ Scott will maintain a (fairly deep) bibliography of materials (books, articles, 
 ### Week 10, March 18: The Invention of Screen Space
 #### Guide: Patrick
 * Gene Youngblood, Part Four, "Cybernetic Cinema and Computer Films," from _Expanded Cinema_
-* Jacob Gaboury, Introduction to _Image Objects_
+* Jacob Gaboury, "Hidden Surface Problems"
 * Gaboury, "The Random-Access Image"
 * Jason Wilson, "Participation TV"
 * Screening (for this week): early computer animation films by Manfred Mohr, John Whitney, Paul Foldès; total run time approx 1 hour.
