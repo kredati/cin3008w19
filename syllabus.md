@@ -167,14 +167,13 @@ Scott will maintain a (fairly deep) bibliography of materials (books, articles, 
 * Kris Cohen, precirculated work in progress
 * Jonathan Beller, Introduction to _The Message is Murder_
 * Aria Dean, "Notes on Blaccelerationism"
-* Frank Wilderson, _Black, White, and Red_, selections
+* Saidiya Hartman, introduction and chapter 1, from _Scenes of Subjection_
 * No screening
 
 ### Week 12, April 1: Computational Pedagogies
 #### No guides
-* Seymour Papert, _Mindstorms_, selections
-* Papert, _The Children's Machine_, selections
-* Joy Rankin, Introduction, chs. 1–3 from _A People's History of Computation in the United States_
+* Seymour Papert, _Mindstorms_, 2nd ed. intro, preface, intro, chs. 1–3, 7–8
+* Joy Rankin, introduction, chs. 6 & 7, and epilogue, from _A People's History of Computation in the United States_
 * No screening. Workshop: Turtle graphics
 
 ### Week 13 or 14, April 8 or 15: Research and Writing Workshop II (voluntary, but expected & beneficial)
